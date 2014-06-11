@@ -3,7 +3,7 @@ Mini-Hexacopter
 
 Mini Hexacopter designed by Clayton Harp (aka gearwolf) CC-BY-NC-SA
 
-Assembly View.JPG
+https://github.com/gearwolf-OP/Mini-Hexacopter/blob/master/Assembly%20View.JPG
 
 Mini Hexacopter
 
