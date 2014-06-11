@@ -8,6 +8,17 @@ This is the frame that I took most pride in designing as it took all of my knowl
 
 Testers/Contributers:
 
+labcopilot (https://www.youtube.com/user/labcopilot )
+
+gearwolf (https://www.youtube.com/channel/UC3hxpZu7FxzWRr7U07uL-lA)
+
+kfinisterre (https://twitter.com/dronesavant)
+
+TyLilly (https://twitter.com/sasquatch_labs)
+
+ToTheHilt (https://www.youtube.com/channel/UC33PfJWcyKvKQgNuMl39FQQ)
+
+
 
 
 
@@ -16,3 +27,24 @@ Testers/Contributers:
 Bom
 
 Uses M3 screw hardware and only 6 spacers for the frame besides any that you would want to use on the Flight Controller
+
+
+All parts in this repository are under creative commons CC-BY-NC-SA 3.0
+
+
+You are free to:
+
+    Share — copy and redistribute the material in any medium or format
+    Adapt — remix, transform, and build upon the material
+
+    The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+    NonCommercial — You may not use the material for commercial purposes.
+
+    ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
