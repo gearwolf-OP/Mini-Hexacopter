@@ -39,7 +39,7 @@ Uses M3 screw hardware and only 6 spacers for the frame besides any that you wou
 I, Clayton Harp, won't be making these parts commercially
 
 
-All parts in this repository are under creative commons CC-BY-NC-SA 3.0
+All parts in this repository are under creative commons CC-BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 
 You are free to:
