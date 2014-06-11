@@ -36,6 +36,9 @@ Bom
 Uses M3 screw hardware and only 6 spacers for the frame besides any that you would want to use on the Flight Controller
 
 
+I, Clayton Harp, won't be making these parts commercially
+
+
 All parts in this repository are under creative commons CC-BY-NC-SA 3.0
 
 
