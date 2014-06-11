@@ -1,0 +1,18 @@
+Mini Hexacopter
+
+Spider FPV mini hexacopter designed by Clayton Harp (aka gearwolf)
+
+This was supposed to be a fun 5" mini hexacopter cabable of carrying even a gopro.  It was primarily meant as a racer with it's low profile and internal hardware.  Coupled with tiger 2300kv motors on a 3s this thing flies really good.  Never tried a 4s though.  It also uses all 36mm x 36mm flight controller boards.
+This is the frame that I took most pride in designing as it took all of my knowledge and feature library to build.  I also asked the designer of The Kwad if it was alright to use a lot of it's features.  With the arm design, low hardware count, and FPV CCD camera mount style this truly made this design what it was.
+
+
+Testers/Contributers:
+
+
+
+
+
+
+Bom
+
+Uses M3 screw hardware and only 6 spacers for the frame besides any that you would want to use on the Flight Controller
