@@ -1,0 +1,10 @@
+The Thorax was inspired by the Mini Hexacopter designed by Clayton Harp, The Thorax was developed with his knowledge. We would like to thank the open source community and the designers of the Mini Hexacopter that inspired the Thorax design, Designer/contributors/testers: Labcopilot, Gearwolf, kfinisterre, TyLilly, ToTheHilt.
+The Original Mini-Hexacopter Files and Information can be found here
+https://github.com/gearwolf-OP/Mini-Hexacopter
+Released under CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+Thorax design vs Clayton Harp Mini Hex
+1) New arms with 12, 14, 16mm motor mounting and motor bell protection and 4mm thickness fr4 construction.
+2) Vibration isolation top mount for action cameras 
+3) Over all stack heights
+4) Bottom mid and top plates are completely new increasing strength and reducing weight some mounting hole may be compatible with versions of the Mini hex for possible spare parts use or upgrades.
